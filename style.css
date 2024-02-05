@@ -1,0 +1,91 @@
+.container {
+  
+  background-color: black;
+}
+
+.header h1 {
+  color: rgb(92, 175, 223);
+  font-size: 45px;
+  display: flex;
+  justify-content: space-around;
+}
+.profile {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.profile img {
+  height: 300px;
+  border-radius: 300px;
+}
+
+.info {
+  display: flex;
+  justify-content: center;
+  font-size: 33px;
+  font-family: monospace;
+  color: white
+}
+
+.contact {
+  font-size: 14px;
+  font-family: monospace;
+  display: flex;
+  font-size: 14px;
+  font-family: monospace;
+  justify-content: center;
+  color: aqua;
+}
+
+.email {
+  font-size: 14px;
+  font-family: monospace;
+  display: flex;
+  font-size: 14px;
+  font-family: monospace;
+  justify-content: center;
+  color: aqua;
+}
+
+
+
+.education {
+  font-size: 22px;
+  font-family: monospace;
+  display: flex;
+  justify-content: center;
+  color: white;
+  
+}
+
+.experience {
+  display: flex;
+  justify-content: center;
+  font-size: 28px;
+  font-weight: bold;
+  color: white;
+  
+}
+
+.experience p {
+  font-size: 15px;
+  font-family: cursive;
+  list-style: outside;
+  color:white
+ 
+}
+
+.social-media{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-family: monospace;
+    color: white;
+    
+}
+
+.redes{
+
+}
